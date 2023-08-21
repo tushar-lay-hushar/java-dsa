@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CodeChef/CodeChef.iml" filepath="$PROJECT_DIR$/../CodeChef/CodeChef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodeForces/CodeForces.iml" filepath="$PROJECT_DIR$/../CodeForces/CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DSA-DDUJ/DSA-DDUJ.iml" filepath="$PROJECT_DIR$/../DSA-DDUJ/DSA-DDUJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GeeksForGeeks/GeeksForGeeks.iml" filepath="$PROJECT_DIR$/../GeeksForGeeks/GeeksForGeeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerEarth/HackerEarth.iml" filepath="$PROJECT_DIR$/../HackerEarth/HackerEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterviewKickstart/InterviewKickstart.iml" filepath="$PROJECT_DIR$/../InterviewKickstart/InterviewKickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MTCI-DSA/MTCI-DSA.iml" filepath="$PROJECT_DIR$/../MTCI-DSA/MTCI-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomPractice.iml" filepath="$PROJECT_DIR$/RandomPractice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CodeChefBeginner/CodeChefBeginner.iml" filepath="$PROJECT_DIR$/../CodeChefBeginner/CodeChefBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GeeksForGeeksCPLive/GeeksForGeeksCPLive.iml" filepath="$PROJECT_DIR$/../GeeksForGeeksCPLive/GeeksForGeeksCPLive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeeksForGeeksDSACourse.iml" filepath="$PROJECT_DIR$/GeeksForGeeksDSACourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../InterviewKickstart/IKCoding/IKCoding.iml" filepath="$PROJECT_DIR$/../../../InterviewKickstart/IKCoding/IKCoding.iml" />
+    </modules>
+  </component>
+</project>
